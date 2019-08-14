@@ -5,5 +5,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello, playground")
+	n,err :=fmt.Println("Hello, playground")
+	fmt.Println(n)
+	fmt.Println(err)
 }
