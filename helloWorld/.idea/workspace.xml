@@ -41,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Build.go build variable.go">
     <configuration name="go build goLangPractice/helloWorld" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="helloWorld" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -50,8 +50,16 @@
       <package value="goLangPractice/helloWorld" />
       <method v="2" />
     </configuration>
+    <configuration name="go build variable.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="helloWorld" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/variable.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build variable.go" />
         <item itemvalue="Go Build.go build goLangPractice/helloWorld" />
       </list>
     </recent_temporary>
